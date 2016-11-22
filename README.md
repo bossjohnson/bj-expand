@@ -16,4 +16,7 @@ Defaults to `vertical`.
 * `bj-expand-trigger` *(required)* : Takes a CSS selector to identify the element which, when clicked, triggers the expansion
 or contraction of the `bj-expand` element.
 
+##[Demo](https://plnkr.co/nfK9sU)
+
+
 ###Comments and suggestions welcome!
