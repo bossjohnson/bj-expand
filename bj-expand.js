@@ -16,6 +16,7 @@
     };
 
     function link(scope, elem, attrs) {
+      scope.dur = scope.dur ? scope.dur : .25;
       elem.css({
         'height': scope.dir === 'horizontal' ? 'auto' : '0',
         'width': scope.dir === 'horizontal' ? '0' : 'auto',
